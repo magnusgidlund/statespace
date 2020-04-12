@@ -1,0 +1,25 @@
+behaviorChange          Detect Behavior Changes
+cumBayes                Cumulative Bayes' factor
+cumsumNA                Cumulative sum with replacements of NAs
+data_baseline           Baseline Data
+data_sw                 New Software Data
+extractC                Extract Posterior Variance by Componet (C_t)
+extractQ                Extract Predcitive Distribution Variance by
+                        Componet (Q_t)
+forecastPerformance     Forecast Performance
+imputeLast              Impute Last
+is.POSIXlt              is.POSIXlt
+kalmanFilter            Kalman Filter with discount factor
+kalmanFilterInter       Kalman Filter with discount factor and
+                        Intervention
+kalmanFilterWeekend     Kalman Filter with discount factor and weekend
+                        adjustments
+kalmanFilterWeekendInter
+                        Kalman Filter with discount factor and weekend
+                        adjustments and intervention
+logLike                 log Likelihood of one-step-ahead forecasts
+markWeekends            Mark weekends points
+modelChoice             Model Choice
+plotModelFit            Plot Fitted Model
+plotUpdate              Plot Update
+removeWeekends          Remove Weekends from data

@@ -1,0 +1,14 @@
+Package: statespace
+Type: Package
+Title: State Space Evaluation
+Version: 0.1.1
+Author: Magnus Gidlund
+Maintainer: Magnus Gidlund <magnus.gidlund@ericsson.comt>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: dlm, lubridate, ggplot2, gridExtra
+RoxygenNote: 6.0.1
+Built: R 3.3.2; ; 2017-06-09 11:38:50 UTC; windows
